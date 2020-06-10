@@ -1,0 +1,30 @@
+#AMR-AMU KAP+ Survey Database beta 2.0 ReadME
+
+##Database Architecture
+
+(/desktop/architecture.png)
+
+##Updates
+
+1. Improved spreadsheet design for easy import into SPSS and R.
+
+2. inclusion of raw data sheet, coded data sheet, and processed data sheet for flexibility of analysis
+
+3. changes in input variables
+
+4. new codebook to accomodate text inputs (e.g. medicine names)
+
+5. new codes
+	-"na" stands for "no answer", meaning the interviewee cannot answer or does not have an answer. This still counts as data and should not be confused with missing data ("NA")
+	-new variable coding:
+		[category(d,k,a,p,e,c) + item number]_var name (+ var attribute)
+	
+6. renaming of existing variables
+	- presence of AMR laws -> reach of AMR laws (since laws could exist but are not communicated/enacted well)
+	- Involvement in Farming Community -> Participatiin Farming Community (since one can be involved de jure but not participate or participate in a lesser degree)
+
+7) summary! calculates t-test of correct and incorrect ratios in each variable
+
+##Recommendations
+
+1) to prevent QRPs such as data peeking and HARKING, It would be very advisable to collect the data first with a copy of the raw_data sheet first and import the data into the database AFTER ALL of the sample data has been collected
