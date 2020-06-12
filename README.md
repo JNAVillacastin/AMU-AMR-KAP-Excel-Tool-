@@ -29,7 +29,7 @@
 	1. collect the data first with a copy of the **raw_data** sheet, and then, import the data into the database **AFTER** all of the sample data has been collected, or
 	2. indicate your target **sample size** in the intro sheet
 
-##Footnotes
+## Footnotes
 
 1. This ReadMe is a **draft**. An improved ReadMe with screenshots of  the database and its features is still under development.
 2. A screenshot of the database architecture design is included in the email. 
