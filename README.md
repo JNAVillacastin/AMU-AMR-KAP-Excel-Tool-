@@ -1,4 +1,4 @@
-# AMR-AMU KAP+ Survey Database beta 2.0 ReadME<sup>1</sup>
+# AMR-AMU KAP+ Survey Database beta 2.0-beta.0 ReadME<sup>1</sup>
 
 
 ## Updates
