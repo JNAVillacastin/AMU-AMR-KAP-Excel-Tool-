@@ -1,9 +1,69 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KAP+ Excel Tool Tutorial</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#amramu-kap-tool-tutorial">AMR/AMU KAP+ TOOL TUTORIAL</a>
+<ul>
+<li>
+<ul>
+<li></li>
+</ul>
+</li>
+<li><a href="#tldr">tl;dr</a></li>
+</ul>
+</li>
+<li><a href="#introduction">Introduction</a>
+<ul>
+<li><a href="#how-does-the-excel-tool-work">How does the Excel tool work?</a></li>
+<li><a href="#parts-of-the-excel-tool">Parts of the Excel Tool</a></li>
+<li><a href="#getting-around-the-intro-sheet">Getting around the intro sheet</a></li>
+</ul>
+</li>
+<li><a href="#chapter-1.-data-table-sheet-layout">Chapter 1. Data Table Sheet Layout</a>
+<ul>
+<li><a href="#indicator-rows">Indicator Rows</a></li>
+<li><a href="#observation-rows">Observation rows</a></li>
+</ul>
+</li>
+<li><a href="#chapter-2.-data-table-sheet-functions">Chapter 2. Data Table Sheet Functions</a>
+<ul>
+<li><a href="#raw_data">raw_data</a></li>
+<li><a href="#coded_data">coded_data</a></li>
+<li><a href="#processed_data">processed_data</a></li>
+</ul>
+</li>
+<li><a href="#chapter-3.-summary-sheets-layout-and-function">Chapter 3. Summary Sheets Layout and Function</a>
+<ul>
+<li><a href="#survey_answers">survey_answers</a></li>
+<li><a href="#summary">summary</a></li>
+<li><a href="#correlation">correlation</a></li>
+</ul>
+</li>
+<li><a href="#chapter-4.-adding-and-updating-the-data-sheets">Chapter 4. Adding and Updating the data sheets</a>
+<ul>
+<li><a href="#adding-data-to-raw_data">Adding data to raw_data</a></li>
+<li><a href="#updating-coded_data-and-processed_data">Updating coded_data and processed_data</a></li>
+</ul>
+</li>
+<li><a href="#chapter-5.-exporting-to-.csv">Chapter 5. “Exporting” to .csv</a></li>
+</ul>
 
-<h1 id="amramu-kap-tool-tutorial">AMR/AMU KAP+ TOOL TUTORIAL</h1>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="amramu-kap-tool-tutorial">AMR/AMU KAP+ TOOL TUTORIAL</h1>
 <p>Glova, N., &amp; Villacastin, J.N.</p>
 <hr>
 <h4 id="about-this-version">About this version</h4>
@@ -327,3 +387,8 @@ Moreover, to check the latest updates of the Excel tool, some demo analyses with
 </ol>
 </section>
 
+    </div>
+  </div>
+</body>
+
+</html>
