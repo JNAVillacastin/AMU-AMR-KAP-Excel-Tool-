@@ -1,5 +1,8 @@
 # AMR-AMU KAP+ Excel Tools v2.0-beta.1 ReadME<sup>1</sup>
 
+## Important Links
+Tutorial Guide for the KAP+ Excel Tools [https://jnavillacastin.github.io/AMU-AMR-KAP-Excel-Tool-/]
+Video Tutorials (*under development*)
 
 ## Updates
 
@@ -29,8 +32,3 @@
 1) to prevent **questionable research practices** (QRPs)  such as **data peeking** and **HARKING** that might compromise the validity and replicability of our analysis, it would be very advisable to:
 	1. collect the data first with a copy of the **raw_data** sheet, and then, import the data into the database **AFTER** all of the sample data has been collected, or
 	2. indicate your target **sample size** in the intro sheet
-
-## Footnotes
-
-1. This ReadMe is a **draft**. An improved ReadMe with screenshots of  the database and its features is still under development.
-
