@@ -1,8 +1,8 @@
 # AMR-AMU KAP+ Excel Tools v2.0-beta.1 ReadME<sup>1</sup>
 
 ## Important Links
--Tutorial Guide for the KAP+ Excel Tools [https://jnavillacastin.github.io/AMU-AMR-KAP-Excel-Tool-/]
--Video Tutorials (*under development*)
+1. Tutorial Guide for the KAP+ Excel Tools [https://jnavillacastin.github.io/AMU-AMR-KAP-Excel-Tool-/]
+2. Video Tutorials (*under development*)
 
 ## Updates
 
