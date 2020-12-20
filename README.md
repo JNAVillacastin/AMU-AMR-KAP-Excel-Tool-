@@ -5,6 +5,8 @@
 
 This repository contains the **1) KAP+ Excel Tool**, and the **2) KAP+ Questionnaire** used in the *"Enhanced assessment of knowledge, attitudes and practices; and, intervention (KAP+) on antimicrobial resistance and antimicrobial use among veterinarians"* research project of the **Food and Agriculture Organization (FAO)**.
 
+You can [download](https://codeload.github.com/JNAVillacastin/AMU-AMR-KAP-Excel-Tool-/zip/master) the Excel Tools and Questionnaires in a .zip file. 
+
 ## How to use this tool
 
 Please refer to the following tutorial links: 
