@@ -14,6 +14,9 @@ Please refer to the following tutorial links:
 1. [Handbook for the KAP+ Excel Tools](https://jnavillacastin.github.io/AMU-AMR-KAP-Tool-Tutorial/)
 2. [Video Tutorials](https://youtube.com/playlist?list=PLEiFamXMWPlZ_mTKf62Jfn_VdVryLcN3t)
 
+## Latest Update (as of 25 February 2021)
+-Missing cells in K14 and K15 in **AMR KAP+ Farmer 2.1** have been resolved. 
+
 ## Terms of Use
 
 This tool is to be used exclusively for the *"Enhanced assessment of knowledge, attitudes and practices; and, intervention (KAP+) on antimicrobial resistance and antimicrobial use among veterinarians"* research project. 
