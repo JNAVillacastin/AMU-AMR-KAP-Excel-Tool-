@@ -1,0 +1,66 @@
+25 February 2021
+
+=========================================================
+Issue 001: 
+1. Knowledge question K14 has K14a-e entries for the survey sheet. KAP Tool only has cells for K14a and K14c.(RESOLVED)
+2. Knowledge question K15 has K15a-f entries for the survey sheet. KAP Tool only has cells for K15a and K15b.(RESOLVED)
+=========================================================
+
+Update report:
+A. For K3
+1. Recoded coded_data to add recognize "wrong" for wrong antiobiotic names:
+-K3 in CT-CV, =IF(raw_data!CT4="can't remember",0,IF(raw_data!CT4="na",0,IF(raw_data!CT4="wrong",0,1)))
+
+B. For K14
+1. Added new cells in raw_data:
+-K14b in DU
+-K14d in DV
+-K14e in DW
+
+2. Added new cells in coded_data:
+-K14c in DU, =IF(raw_data!DT4="yes", 0,1)
+-K14d in DV, =IF(raw_data!DV4="yes", 0,1)  
+-K14e in DW, =IF(raw_data!DW4="don't know", 0,1)
+
+3. Renamed cells in raw_data and coded_data:
+-DS, K14a_besttreatment
+-DT, K14b_bestgrowth
+-DU, K14c_bestprevention
+-DV, K14d_bestwhenever
+-DW, k14e_dontknow
+
+4. Updated the code in survey_answers
+-in U17, sample score: =SUM(coded_data!DS:DS) + SUM(coded_data!DT:DT) + SUM(coded_data!DU:DU) + SUM(coded_data!DV:DV) + SUM(coded_data!DW:DW)
+-in V17, % of correct answer:=U17/COUNT(coded_data!CR:CR)/5
+
+
+C. For K15
+1. Moved and renamed K15a and K15b into K15c and K15d to be consistent with the survey questionnaire
+
+2. Added new cells in raw_data
+-K15c in DZ
+-K15d in EA
+-K15e in EB
+-K15f in EC
+
+3. Added new cells in coded_data:
+-K15c in DZ
+-K15d in EA
+-K15e in EB
+-K15f in EC
+
+4. Renamed cells in raw_data and coded_data:
+-DX, K15a_safe_fightsbacteria
+-DY, K15b_safe_promotesgrowth
+-DZ, K15c_risk_resistancepass
+-EA, K15d_risk_developresistance
+-EB, K15e_no_risk
+-EC, K15f_don't_know
+
+5. Updated code in survey_answers
+-in U18, sample score: =SUM(coded_data!DX:DX) + SUM(coded_data!DY:DY) + SUM(coded_data!DZ:DZ) +SUM(coded_data!EA:EA) + SUM(coded_data!EB:EB) + SUM(coded_data!EC:EC)
+-in V18, % of correct answers: U19/COUNT(coded_data!CR:CR)
+
+6. Updated code in summary
+-in I9, (%) of correct: 
+======================================================================
