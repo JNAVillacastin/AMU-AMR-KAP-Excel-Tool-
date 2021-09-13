@@ -3,6 +3,8 @@
 
 ## About this tool
 
+This tool is designed to present quick insights on knowledge, attitude, practices (KAP) and efficacy, intention, and policy gaps on antimicrobial resistance and antimicrobial use to aid the design of appropriate communication interventions. 
+
 This repository contains the **1) KAP+ Excel Tool**, and the **2) KAP+ Questionnaire** used in the *"Enhanced assessment of knowledge, attitudes and practices; and, intervention (KAP+) on antimicrobial resistance and antimicrobial use among veterinarians"* research project of the **Food and Agriculture Organization (FAO)**.
 
 You can [download](https://codeload.github.com/JNAVillacastin/AMU-AMR-KAP-Excel-Tool-/zip/master) the Excel Tools and Questionnaires in a .zip file. 
