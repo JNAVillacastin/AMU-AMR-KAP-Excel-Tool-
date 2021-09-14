@@ -1,0 +1,12 @@
+14 September 2021
+
+Update report:
+In farmers,
+	-added item E18 in Farmer's survey into "Social Network" construct
+-In vendors, 
+	-corrected SD7 from multiple-answer item into single-answer item;
+	-"Internal Monitoring" -> "Government Monitoring" in both raw_data, coded_data, and summary sheets.
+-In all KAP+ tools:
+	-added ABS function in t-value table in correlation sheets.
+	-changed p < 0.01 to p < 0.001 in correlation sheets.
+	-fixed interpretation indicators for Pearson's r in correlation sheets.
